@@ -67,6 +67,7 @@ public class Test {
 		System.out.println(1<<23);
 		System.out.println(1.00==1.0);
 		System.out.println("Ìá½»µ½github");
+		System.out.println("a new message");
 	}
 
 }
