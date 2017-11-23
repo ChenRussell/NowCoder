@@ -65,6 +65,7 @@ public class Test {
 //		testReplaceAll();
 		System.out.println(Math.pow(2, 23));
 		System.out.println(1<<23);
+		System.out.println(1.00==1.0);
 	}
 
 }
