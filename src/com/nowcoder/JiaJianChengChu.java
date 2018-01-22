@@ -46,6 +46,5 @@ public class JiaJianChengChu {
 	public static void main(String[] args) {
 		System.out.println(fuck("5/3"));
 		Scanner sc = new Scanner(System.in);
-		
 	}
 }
