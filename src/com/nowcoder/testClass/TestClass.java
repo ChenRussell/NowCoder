@@ -51,10 +51,18 @@ public class TestClass extends AbstractSuperClass implements InterfaceSuperClass
 		return 0;
 	}
 
+
+	/**
+	 * 对于abstract类的子类:一是实现其超类的所有abstract方法,或者是子类也申明为abstract类,
+	 * 将全部实现抽象方法的责任交给它的子类
+	 */
 	@Override
 	public int abstract1(int a, int b) {
-		// TODO Auto-generated method stub
 		return 0;
+	}
+
+	@Override
+	public void abstract2() {
 	}
 
 }
