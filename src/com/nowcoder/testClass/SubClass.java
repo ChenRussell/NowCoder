@@ -14,7 +14,7 @@ public class SubClass extends SuperClass {
 
 	public int a = 12;
 
-	@Test
+//	@Test
 	public void print() {
 		// super代表父类对应的对象,所以用super访问在子类中无法直接使用的父类成员和方法
 		System.out.println(super.a);

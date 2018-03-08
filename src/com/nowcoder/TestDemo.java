@@ -1,13 +1,17 @@
 package com.nowcoder;
 
+
+import java.io.File;
+import java.io.FileFilter;
+
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.junit.Test;
 
 import com.nowcoder.testClass.SubClass;
-import org.omg.PortableInterceptor.INACTIVE;
 
 public class TestDemo {
 
@@ -45,12 +49,14 @@ public class TestDemo {
      *
      * @param args
      */
+
     @Test
     public void testDoubleCompare() {
         double a = 1.23;
         double b = 1.2300;
         System.out.println(a == b); // true
         System.out.println(0x1);    // 1
+        System.out.println(077);
     }
 
     /**
@@ -58,6 +64,7 @@ public class TestDemo {
      *
      * @param args
      */
+
     @Test
     public void testChar() {
         char mode[] = new char[]{1, 0, 'X', 9, 8, 7, 6, 5, 4, 3, 2};
@@ -88,6 +95,7 @@ public class TestDemo {
         Integer c = new Integer(127);
         Integer d = new Integer(127);
         System.out.println(c == d); // false
+
 
         // 自动拆箱的例子
         int i = 127;
@@ -142,6 +150,32 @@ public class TestDemo {
         System.out.println(si1.value);// 输出3
     }
 
+    @Test
+    public void testLoop() throws Exception {
+        loop:   // 标志位,用来跳出多重循环
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+
+            for (int j = 0; j < 10; j++) {
+                System.out.println("i=" + i + ",j=" + j);
+                if (j == 5) break loop;
+            }
+        }
+
+        int arr[][] = {{1, 2, 3}, {4, 5, 6, 7}, {9}};
+        short c = 1;
+        boolean found = false;
+        for (int i = 0; i < arr.length && !found; i++) {
+            for (int j = 0; j < arr[i].length; j++) {
+                System.out.println("i=" + i + ",j=" + j);
+                if (arr[i][j] == 5) {
+                    found = true;
+                    break;
+                }
+            }
+        }
+    }
+
     /**
      * 测试字符串值的比较
      */
@@ -151,7 +185,11 @@ public class TestDemo {
         String s2 = s1 + "b";
         String s3 = "a" + "b";
         System.out.println(s2 == "ab"); // false
+
         System.err.println(s2 == "ab"); // 打印的值为红色
+
+        System.err.println(s2 == "ab");
+
         System.out.println(s3 == "ab"); // true
         // javac编译时可以对字符串常量直接相加的表达式进行优化,不必要等到运行时去进行加法运算处理,而是在编译时去掉其中的加号,直接将其编译成一个这些常量相连的结果
         String cr = "chenrui"; // 这种方式,java首先会在缓冲区查找是否有"chenrui"这个常量对象,有就直接将其地址赋值给cr,没有就创建一个"chenrui",然后将其赋值给cr
@@ -159,6 +197,8 @@ public class TestDemo {
         System.out.println(cr == "chenrui"); // true
         System.out.println(cr == cr2); // true
         System.out.println(new String("cr") == new String("cr")); // false
+
+        System.out.println("intern: " + (cr == cr.intern()));
     }
 
     public static void testMath() {
@@ -241,8 +281,16 @@ public class TestDemo {
         String str = "hello world";
         str = str + 100;
         System.out.println(str);
+
         if (true) {
         }
+
+
+        long i = 0xfffL;
+        double x = 0.9239f;
+        System.out.println(i);
+        System.out.println(x);
+        ThreadLocal threadLocal = new ThreadLocal();
     }
 
     /**
@@ -267,7 +315,7 @@ public class TestDemo {
         }
     }
 
-    @Test
+    @Test(expected = NullPointerException.class)
     public void testRegularExp2() {
         String text = "(content:\"rcpt to root\";pcre:\"word\";)";
         String rule1 = "content:\".+\""; // 贪婪模式
@@ -303,6 +351,7 @@ public class TestDemo {
 
     /**
      * 测试字符串数组的初始化
+     *
      * @throws Exception
      */
     @Test
@@ -316,6 +365,7 @@ public class TestDemo {
      * 测试ArrayList
      * 不指定ArrayList类型，存入数据，再次取出时，默认是Object类型；
      * 但这个题的关键是instanceof关键字，instanceof执行时类似利用java反射机制，识别对象信息。
+     *
      * @throws Exception
      */
     @Test
@@ -333,7 +383,6 @@ public class TestDemo {
     }
 
     /**
-     *
      * @throws Exception
      */
     @Test
@@ -349,6 +398,7 @@ public class TestDemo {
 
     /**
      * 静态方法不依赖与对象,不会报空指针异常
+     *
      * @throws Exception
      */
     @Test
@@ -359,21 +409,114 @@ public class TestDemo {
 
     /**
      * 测试模数
+     */
+    @Test
+    public void testSomething() throws Exception {
+        Map<Integer, Integer> hashMap = new HashMap<Integer, Integer>();
+        Set<Map.Entry<Integer, Integer>> entries = hashMap.entrySet();
+        for (Map.Entry<Integer, Integer> entry :
+                entries) {
+
+        }
+        ConcurrentHashMap concurrentHashMap = new ConcurrentHashMap();
+        int i = 0;
+        int j = 0;
+        String[] strings = {"范冰冰", "柳岩", "高圆圆", "AngelaBaby"};
+        while (true) {
+            i++;
+            j++;
+            if (j == strings.length) j = 0;
+            System.out.println(strings[j] + ", i wanna fuck you " + i + " times, suck my dick！");
+            Thread.sleep(500);
+            if (i == 100) break;
+        }
+    }
+
+    @Test
+    public void testHashCode() throws Exception {
+        TestDemo testDemo = new TestDemo();
+        TestDemo testDemo2 = new TestDemo();
+        TestDemo testDemo3 = testDemo;
+        new Object();
+        System.out.println(testDemo.hashCode());
+        System.out.println(testDemo2.hashCode());
+        System.out.println(testDemo3.hashCode());
+        int a = 4, b = 6;    // 100 110
+        int i = a ^ b;  // 异或
+        System.out.println(i);
+    }
+
+    static int f = 3;
+
+    @Test
+    public void testAssignment() throws Exception {
+        long t = 012;   // 八进制
+        float f = -412;
+        double d = 0x12345678;
+//        byte b = 128;     // byte的范围为-128-127
+        System.out.println(d);
+        System.out.println(t);
+        System.out.println(this.f);
+    }
+
+    @Test
+    public void testLambda() throws Exception {
+
+        File file = new File("C:/Users\\hasee\\Downloads");
+        /**
+         * java8 lambda表达式
+         */
+        File[] files = file.listFiles((File f) -> f.getName().endsWith(".3gp"));
+        /**
+         * 原始写法
+         */
+        File[] files1 = file.listFiles(new FileFilter() {
+            @Override
+            public boolean accept(File pathname) {
+                return pathname.getName().endsWith(".3gp");
+            }
+        });
+        for (File fi :
+                files1) {
+            System.out.println(fi.getName());
+        }
+
+        System.out.println("---------------分割线-------------------");
+        for (File fi : files) {
+            System.out.println(fi.getName());
+        }
+
+        System.out.println("-----------------分割线-----------------");
+        File[] files2 = file.listFiles(f -> f.getName().endsWith(".3gp"));
+        for (File fi :
+                files2) {
+            System.out.println(fi.getName());
+        }
+    }
+
+    /**
+     * 使用lambda表达式替代匿名内部类
+     * <p>
+     * 总结：从上面语法格式可以看出，Lambda表达式的主要作用就是代替匿名内部类的繁琐语法。它由三部分组成。
+     * 1.形参列表。形参列表允许省略形参类型。如果形参列表表中只有一个参数，甚至连参数列表的圆括号也可以省略。
+     * 2.箭头(->).必须通过英文画线号和大于符号组成。
+     * 3.代码块。如果代码块只包含一条语句，Lambda表达式允许省略代码块的花括号，那么这条语句就不要用花括号表示语句结束。
+     * lambda代码块只有一条return语句，甚至可以省略return关键字。
      *
      * @throws Exception
      */
     @Test
     public void testMode() throws Exception {
-        System.out.println(100%3);  // 1
-        System.out.println(100%3.0);// 1.0
-        System.out.println(7.0%3);  // 1.0
+        System.out.println(100 % 3);  // 1
+        System.out.println(100 % 3.0);// 1.0
+        System.out.println(7.0 % 3);  // 1.0
     }
 
     @Test
     public void testThrowException() throws Exception {
         try {
             throwException(new int[]{0, 1, 2, 3, 4, 5});
-        } catch (Exception e){
+        } catch (Exception e) {
             System.out.println("E");    // 捕获异常
         }
     }
@@ -386,28 +529,134 @@ public class TestDemo {
                 } else {
                     System.out.println(i);
                 }
-            }finally {
+            } finally {
                 System.out.println("e");
             }
         }
     }
 
+    @Test
+    public void testFinally() throws Exception {
+        System.out.println(f(3));   // 2
+    }
+
+    public int f(int num) {
+        try {
+            num = 2;
+            return num;
+        } finally {
+            num = 564;
+        }
+    }
+
     public void changeArgs(Integer... a) {    // a是一个数组
         for (int i = 0; i < a.length; i++) {
-            System.out.print(a[i]+" ");
+            System.out.print(a[i] + " ");
         }
         System.out.println();
     }
 
     /**
      * 测试变长参数,--->语法糖,在变长参数出现之前,程序员就是使用数组来完成类似功能的
+     *
      * @throws Exception
      */
     @Test
     public void testChangeArgs() throws Exception {
         changeArgs(1);
-        changeArgs(2,3);
-        changeArgs(2,3,4,5,6);
+        changeArgs(2, 3);
+        changeArgs(2, 3, 4, 5, 6);
+    }
+
+    public void testLambda2() throws Exception {
+
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("this is original way!");
+            }
+        }).start();
+        new Thread(() -> System.out.println("it's is a lambda function!")).start();
+        System.out.println("this is main thread!");
+
+        new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("this is not lambda way!");
+            }
+        }.run();
+        Runnable r = () -> {
+            System.out.println("this is lambda way!");
+        };  // lambda表达式代替匿名内部类
+        r.run();
+    }
+
+    /**
+     * 使用lambda表达式对集合进行迭代
+     */
+    @Test
+    public void iterTest() {
+        List<String> languages = Arrays.asList("java", "scala", "python");
+        //before java8
+        for (String each : languages) {
+            System.out.println(each);
+        }
+        //after java8
+        languages.forEach(x -> System.out.println(x));
+        languages.forEach(System.out::println);
+    }
+
+    @Test
+    public void testCount() throws Exception {
+        int count = 0;
+        int num = 0;
+        for (int i = 0; i <= 100; i++) {
+            num = num + i;
+            count = count++;  // count的值等于count值，而后面count自加不影响count结果，因此这个式子无意义
+        }
+        System.out.println("count*num: " + (count * num));
+    }
+
+    @Test
+    public void testThreeMu() throws Exception {
+        int a = 5;
+        System.out.println("value is " + ((a < 5) ? 10.9 : 9)); // 9.0,自动类型转换
+    }
+
+    @Test
+    public void testMoveoper() throws Exception {
+        int num = -10;
+        System.out.println(Integer.toBinaryString(num));
+        num = num << 1;
+        System.out.println(Integer.toBinaryString(num));
+        num = num >>> 1;
+        System.out.println(Integer.toBinaryString(num));
+    }
+
+    @Test
+    public void testSet() throws Exception {
+        HashSet<Integer> set = new HashSet<>();
+        set.add(1);
+        set.add(4);
+        set.add(3);
+        set.add(0);
+        set.add(-1);
+        set.add(1);
+        for (Integer i:
+             set) {
+            System.out.print(i+" ");
+        }
+        System.out.println();
+        Iterator<Integer> iterator = set.iterator();
+        while (iterator.hasNext()) {
+            System.out.print(iterator.next()+" ");
+        }
+    }
+
+    @Test
+    public void testAlibaba() throws Exception {
+        int n = 3, m = 3;
+        System.out.println(Math.pow(m-1,n)+Math.pow(-1,n)*(m-1));
     }
 
     public static void main(String[] args) {
