@@ -13,8 +13,10 @@ public class LocalInnerClass {
 
     }
     public People getInnerClass() {
+        int a = 3;
         class Woman extends People {        // 局部内部类
             int age = 0;
+            int b = a;
         }
         return new Woman();
     }

@@ -1,7 +1,7 @@
 package com.nowcoder.testClass;
 
 
-public abstract class AbstractSuperClass {
+public abstract class AbstractSuperClass implements InterfaceSuperClass{
 
     /**
      * 抽象类可以有构造方法，但是不能实例化

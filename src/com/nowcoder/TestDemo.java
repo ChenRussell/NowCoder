@@ -1,11 +1,14 @@
 package com.nowcoder;
 
 
-import java.io.File;
-import java.io.FileFilter;
+import java.io.*;
 
 import java.util.*;
+import java.util.concurrent.Callable;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.Executors;
+import java.util.concurrent.atomic.AtomicInteger;
+import java.util.concurrent.locks.ReentrantLock;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -412,12 +415,37 @@ public class TestDemo {
      */
     @Test
     public void testSomething() throws Exception {
-        Map<Integer, Integer> hashMap = new HashMap<Integer, Integer>();
-        Set<Map.Entry<Integer, Integer>> entries = hashMap.entrySet();
-        for (Map.Entry<Integer, Integer> entry :
+        Callable callable = new Callable<Object>() {
+            @Override
+            public Object call() throws Exception {
+                return null;
+            }
+        };
+        Runnable runnable = new Runnable() {
+            @Override
+            public void run() {
+
+            }
+        };
+        InputStream inputStream = new FileInputStream("");
+        BufferedInputStream bufferedInputStream = new BufferedInputStream(inputStream);
+        ReentrantLock reentrantLock = new ReentrantLock();
+        new Hashtable<>();
+        Map<String, Integer> hashMap = new HashMap<>();
+        new ArrayList<>();
+        new Object();
+        new Thread();
+        Executors.newFixedThreadPool(3);
+        Executors.newCachedThreadPool();
+        Executors.newSingleThreadExecutor();
+
+        Set<Map.Entry<String, Integer>> entries = hashMap.entrySet();
+        for (Map.Entry<String, Integer> entry :
                 entries) {
 
         }
+        new AtomicInteger();
+        new ThreadLocal<>();
         ConcurrentHashMap concurrentHashMap = new ConcurrentHashMap();
         int i = 0;
         int j = 0;
@@ -657,6 +685,14 @@ public class TestDemo {
     public void testAlibaba() throws Exception {
         int n = 3, m = 3;
         System.out.println(Math.pow(m-1,n)+Math.pow(-1,n)*(m-1));
+    }
+
+    @Test
+    public void testJinzhi() throws Exception {
+        int eight = 010;
+        int six = 0xC;
+        System.out.println(eight);
+        System.out.println(six);
     }
 
     public static void main(String[] args) {
