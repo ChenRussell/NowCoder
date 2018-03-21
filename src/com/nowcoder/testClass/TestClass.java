@@ -69,4 +69,9 @@ public class TestClass extends AbstractSuperClass implements InterfaceSuperClass
 
     }
 
+
+    @Override
+    public void abstract2() {
+    }
+
 }

@@ -1,8 +1,11 @@
 package com.nowcoder;
 
+
 import java.io.File;
 import java.io.FileFilter;
+
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -46,11 +49,14 @@ public class TestDemo {
      *
      * @param args
      */
-    public static void testDoubleCompare() {
+
+    @Test
+    public void testDoubleCompare() {
         double a = 1.23;
         double b = 1.2300;
-        System.out.println(a == b);
-        System.out.println(0x1);
+        System.out.println(a == b); // true
+        System.out.println(0x1);    // 1
+        System.out.println(077);
     }
 
     /**
@@ -58,9 +64,12 @@ public class TestDemo {
      *
      * @param args
      */
-    public static void testChar() {
+
+    @Test
+    public void testChar() {
         char mode[] = new char[]{1, 0, 'X', 9, 8, 7, 6, 5, 4, 3, 2};
-        System.out.println(mode[0] == '1');
+        System.out.println(mode[0] == '1'); // false
+        System.out.println(mode[0]);    // 数字1对应的字符为
     }
 
     /**
@@ -86,6 +95,30 @@ public class TestDemo {
         Integer c = new Integer(127);
         Integer d = new Integer(127);
         System.out.println(c == d); // false
+
+
+        // 自动拆箱的例子
+        int i = 127;
+        System.out.println(c == i); // true 因为 i 为基本类型,c会自动拆箱,进行值比较,返回true
+        System.out.println(new Double(127.0) == i);   // true, 自动拆箱??
+    }
+
+    @Test
+    public void testIntegerCompare2() throws Exception {
+
+        Integer a = 1;
+        Integer b = 2;
+        Integer c = 3;
+        Integer d = 3;
+        Integer e = 321;
+        Integer f = 321;
+        Float g = 3.0f;
+        System.out.println(c == d); // true
+        System.out.println(e == f); // false
+        System.out.println(c == (a + b));   // true ,"==" 遇到算术运算会自动拆箱
+        System.out.println(c.equals(a + b));// true
+        System.out.println(g == (a + b));   // true ,遇到算术运算自动拆箱
+        System.out.println(g.equals(a + b));// false
     }
 
     /**
@@ -117,15 +150,46 @@ public class TestDemo {
         System.out.println(si1.value);// 输出3
     }
 
+    @Test
+    public void testLoop() throws Exception {
+        loop:   // 标志位,用来跳出多重循环
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+
+            for (int j = 0; j < 10; j++) {
+                System.out.println("i=" + i + ",j=" + j);
+                if (j == 5) break loop;
+            }
+        }
+
+        int arr[][] = {{1, 2, 3}, {4, 5, 6, 7}, {9}};
+        short c = 1;
+        boolean found = false;
+        for (int i = 0; i < arr.length && !found; i++) {
+            for (int j = 0; j < arr[i].length; j++) {
+                System.out.println("i=" + i + ",j=" + j);
+                if (arr[i][j] == 5) {
+                    found = true;
+                    break;
+                }
+            }
+        }
+    }
+
     /**
      * 测试字符串值的比较
      */
-    public static void testString() {
+    @Test
+    public void testString() {
         String s1 = "a";
         String s2 = s1 + "b";
         String s3 = "a" + "b";
         System.out.println(s2 == "ab"); // false
+
+        System.err.println(s2 == "ab"); // 打印的值为红色
+
         System.err.println(s2 == "ab");
+
         System.out.println(s3 == "ab"); // true
         // javac编译时可以对字符串常量直接相加的表达式进行优化,不必要等到运行时去进行加法运算处理,而是在编译时去掉其中的加号,直接将其编译成一个这些常量相连的结果
         String cr = "chenrui"; // 这种方式,java首先会在缓冲区查找是否有"chenrui"这个常量对象,有就直接将其地址赋值给cr,没有就创建一个"chenrui",然后将其赋值给cr
@@ -133,6 +197,8 @@ public class TestDemo {
         System.out.println(cr == "chenrui"); // true
         System.out.println(cr == cr2); // true
         System.out.println(new String("cr") == new String("cr")); // false
+
+        System.out.println("intern: " + (cr == cr.intern()));
     }
 
     public static void testMath() {
@@ -216,12 +282,15 @@ public class TestDemo {
         str = str + 100;
         System.out.println(str);
 
+        if (true) {
+        }
+
+
         long i = 0xfffL;
         double x = 0.9239f;
         System.out.println(i);
         System.out.println(x);
         ThreadLocal threadLocal = new ThreadLocal();
-
     }
 
     /**
@@ -268,9 +337,88 @@ public class TestDemo {
         }
     }
 
+    @Test(expected = NullPointerException.class)
+    public void testException() {
+        String str = null;
+        System.out.println(str.length());
+        System.out.println("测试单元测试的expected");
+    }
+
+    @Test
+    public void testAltInsert() throws Exception {
+        System.out.println("idea 快捷键是真猛啊!");
+    }
+
+    /**
+     * 测试字符串数组的初始化
+     *
+     * @throws Exception
+     */
+    @Test
+    public void testStringArray() throws Exception {
+        String[] arr = new String[10];
+        System.out.println(arr[0]); // null
+        System.out.println(arr.length); // 10
+    }
+
+    /**
+     * 测试ArrayList
+     * 不指定ArrayList类型，存入数据，再次取出时，默认是Object类型；
+     * 但这个题的关键是instanceof关键字，instanceof执行时类似利用java反射机制，识别对象信息。
+     *
+     * @throws Exception
+     */
+    @Test
+    public void testList() throws Exception {
+        List list1 = new ArrayList();
+        list1.add(0);
+        list1.add('c');
+        List list2 = list1;
+        System.out.println(list1 == list2); // true
+        Object o = list1.get(0);    // 得到的是Object类型
+        System.out.println(o instanceof Integer);
+        System.out.println(list1.get(0) instanceof Integer);    // true
+        System.out.println(list2.get(0) instanceof Integer);    // true
+        System.out.println(list2.get(1) instanceof Character);  // true
+    }
+
+    /**
+     * @throws Exception
+     */
+    @Test
+    public void testJVMMemory() throws Exception {
+        int i = 0;
+        i = i++;
+        System.out.println(i);  // 0
+    }
+
+    public static void hello() {
+        System.out.println("hello");
+    }
+
+    /**
+     * 静态方法不依赖与对象,不会报空指针异常
+     *
+     * @throws Exception
+     */
+    @Test
+    public void testStaticMethod() throws Exception {
+        TestDemo t = null;
+        t.hello();  // 不会报错
+    }
+
+    /**
+     * 测试模数
+     */
     @Test
     public void testSomething() throws Exception {
-        HashMap hashMap = new HashMap();
+        Map<Integer, Integer> hashMap = new HashMap<Integer, Integer>();
+        Set<Map.Entry<Integer, Integer>> entries = hashMap.entrySet();
+        for (Map.Entry<Integer, Integer> entry :
+                entries) {
+
+        }
+        ConcurrentHashMap concurrentHashMap = new ConcurrentHashMap();
         int i = 0;
         int j = 0;
         String[] strings = {"范冰冰", "柳岩", "高圆圆", "AngelaBaby"};
@@ -299,6 +447,7 @@ public class TestDemo {
     }
 
     static int f = 3;
+
     @Test
     public void testAssignment() throws Exception {
         long t = 012;   // 八进制
@@ -307,7 +456,7 @@ public class TestDemo {
 //        byte b = 128;     // byte的范围为-128-127
         System.out.println(d);
         System.out.println(t);
-        System.out.println(this.f); 
+        System.out.println(this.f);
     }
 
     @Test
@@ -357,6 +506,68 @@ public class TestDemo {
      * @throws Exception
      */
     @Test
+    public void testMode() throws Exception {
+        System.out.println(100 % 3);  // 1
+        System.out.println(100 % 3.0);// 1.0
+        System.out.println(7.0 % 3);  // 1.0
+    }
+
+    @Test
+    public void testThrowException() throws Exception {
+        try {
+            throwException(new int[]{0, 1, 2, 3, 4, 5});
+        } catch (Exception e) {
+            System.out.println("E");    // 捕获异常
+        }
+    }
+
+    public void throwException(int[] arr) {
+        for (int i = 0; i < arr.length; i++) {
+            try {
+                if (arr[i] % 2 == 0) {
+                    throw new NullPointerException();   // 抛异常,方法结束执行
+                } else {
+                    System.out.println(i);
+                }
+            } finally {
+                System.out.println("e");
+            }
+        }
+    }
+
+    @Test
+    public void testFinally() throws Exception {
+        System.out.println(f(3));   // 2
+    }
+
+    public int f(int num) {
+        try {
+            num = 2;
+            return num;
+        } finally {
+            num = 564;
+        }
+    }
+
+    public void changeArgs(Integer... a) {    // a是一个数组
+        for (int i = 0; i < a.length; i++) {
+            System.out.print(a[i] + " ");
+        }
+        System.out.println();
+    }
+
+    /**
+     * 测试变长参数,--->语法糖,在变长参数出现之前,程序员就是使用数组来完成类似功能的
+     *
+     * @throws Exception
+     */
+    @Test
+    public void testChangeArgs() throws Exception {
+        changeArgs(1);
+        changeArgs(2, 3);
+        changeArgs(2, 3, 4, 5, 6);
+    }
+
     public void testLambda2() throws Exception {
 
         new Thread(new Runnable() {
@@ -403,7 +614,49 @@ public class TestDemo {
             num = num + i;
             count = count++;  // count的值等于count值，而后面count自加不影响count结果，因此这个式子无意义
         }
-        System.out.println("count*num: "+(count*num));
+        System.out.println("count*num: " + (count * num));
+    }
+
+    @Test
+    public void testThreeMu() throws Exception {
+        int a = 5;
+        System.out.println("value is " + ((a < 5) ? 10.9 : 9)); // 9.0,自动类型转换
+    }
+
+    @Test
+    public void testMoveoper() throws Exception {
+        int num = -10;
+        System.out.println(Integer.toBinaryString(num));
+        num = num << 1;
+        System.out.println(Integer.toBinaryString(num));
+        num = num >>> 1;
+        System.out.println(Integer.toBinaryString(num));
+    }
+
+    @Test
+    public void testSet() throws Exception {
+        HashSet<Integer> set = new HashSet<>();
+        set.add(1);
+        set.add(4);
+        set.add(3);
+        set.add(0);
+        set.add(-1);
+        set.add(1);
+        for (Integer i:
+             set) {
+            System.out.print(i+" ");
+        }
+        System.out.println();
+        Iterator<Integer> iterator = set.iterator();
+        while (iterator.hasNext()) {
+            System.out.print(iterator.next()+" ");
+        }
+    }
+
+    @Test
+    public void testAlibaba() throws Exception {
+        int n = 3, m = 3;
+        System.out.println(Math.pow(m-1,n)+Math.pow(-1,n)*(m-1));
     }
 
     public static void main(String[] args) {
