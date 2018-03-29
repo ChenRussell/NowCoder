@@ -3,6 +3,7 @@ package com.nowcoder;
 
 import java.io.*;
 
+import java.lang.reflect.Method;
 import java.util.*;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ConcurrentHashMap;
@@ -184,6 +185,8 @@ public class TestDemo {
      */
     @Test
     public void testString() {
+        String a= null;
+        System.out.println(a.concat("Sd"));
         String s1 = "a";
         String s2 = s1 + "b";
         String s3 = "a" + "b";
@@ -415,6 +418,8 @@ public class TestDemo {
      */
     @Test
     public void testSomething() throws Exception {
+        new LinkedList<>();
+        Stack<Object> objects = new Stack<>();
         Callable callable = new Callable<Object>() {
             @Override
             public Object call() throws Exception {
@@ -693,6 +698,30 @@ public class TestDemo {
         int six = 0xC;
         System.out.println(eight);
         System.out.println(six);
+    }
+
+    @Test
+    public void testArrayList() throws Exception {
+        ArrayList<Integer> arr = new ArrayList<>();
+        arr.add(1);
+        arr.add(2);
+        arr.remove(0);
+        Integer integer = arr.get(0);
+        System.out.println(integer);
+    }
+
+    @Test
+    public void testClassObject() throws Exception {
+        Object o = new Object();
+        System.out.println(o.hashCode());
+        Class<?> aClass = o.getClass();
+        System.out.println(aClass.hashCode());
+        System.out.println(aClass.getName());
+        Method[] methods = aClass.getMethods();
+        for (Method method : methods) {
+            System.out.println(method.getName());
+
+        }
     }
 
     public static void main(String[] args) {
