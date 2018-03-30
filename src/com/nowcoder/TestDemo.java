@@ -419,6 +419,7 @@ public class TestDemo {
     @Test
     public void testSomething() throws Exception {
         new LinkedList<>();
+        new Double(23);
         Stack<Object> objects = new Stack<>();
         Callable callable = new Callable<Object>() {
             @Override
