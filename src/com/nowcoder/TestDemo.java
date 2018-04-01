@@ -418,7 +418,12 @@ public class TestDemo {
      */
     @Test
     public void testSomething() throws Exception {
+        new BufferedReader(new FileReader(""));
+        new FileReader("");
         new LinkedList<>();
+        Arrays.asList(1, 2, 3);
+        String str = "as";
+        str.toCharArray();
         new Double(23);
         Stack<Object> objects = new Stack<>();
         Callable callable = new Callable<Object>() {

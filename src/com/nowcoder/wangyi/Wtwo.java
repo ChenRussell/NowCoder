@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 /**
  * Created by ChenRui on 2018/3/27
+ *
+ * 输入n,k
+ * 两个不大于n的数，且余数大于k
  */
 public class Wtwo {
 
