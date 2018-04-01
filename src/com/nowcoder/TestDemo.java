@@ -418,6 +418,7 @@ public class TestDemo {
      */
     @Test
     public void testSomething() throws Exception {
+        new PriorityQueue<>();
         new LinkedList<>();
         Stack<Object> objects = new Stack<>();
         Callable callable = new Callable<Object>() {
