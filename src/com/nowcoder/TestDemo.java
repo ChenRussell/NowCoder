@@ -7,15 +7,20 @@ import java.lang.reflect.Method;
 import java.util.*;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.concurrent.locks.LockSupport;
 import java.util.concurrent.locks.ReentrantLock;
+import java.util.concurrent.locks.ReentrantReadWriteLock;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import com.sun.deploy.uitoolkit.impl.fx.FXPluginToolkit;
 import org.junit.Test;
 
 import com.nowcoder.testClass.SubClass;
+import sun.awt.Mutex;
 
 public class TestDemo {
 
@@ -418,8 +423,21 @@ public class TestDemo {
      */
     @Test
     public void testSomething() throws Exception {
+        TestDemo testDemo = new TestDemo();
+        synchronized (testDemo) {
+            // 调用wait方法需要先获取对象锁
+            testDemo.wait();
+        }
+//        new LockSupport;
+        new ReentrantReadWriteLock();
+        new BufferedReader(new FileReader(""));
+        new FileReader("");
         new PriorityQueue<>();
         new LinkedList<>();
+        Arrays.asList(1, 2, 3);
+        String str = "as";
+        str.toCharArray();
+        new Double(23);
         Stack<Object> objects = new Stack<>();
         Callable callable = new Callable<Object>() {
             @Override
@@ -441,7 +459,13 @@ public class TestDemo {
         new ArrayList<>();
         new Object();
         new Thread();
-        Executors.newFixedThreadPool(3);
+        ExecutorService threadPool = Executors.newFixedThreadPool(3);
+        threadPool.execute(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("");
+            }
+        });
         Executors.newCachedThreadPool();
         Executors.newSingleThreadExecutor();
 
@@ -729,6 +753,19 @@ public class TestDemo {
     public void testNull() throws Exception {
         new HashMap<String, String>().get(null);
         String.valueOf(null);   // 空指针异常
+    }
+
+    @Test
+    public void testRight() throws Exception {
+        int i = -2000000000;
+        int k = 2000000000;
+        System.out.println(Integer.toBinaryString(i));
+        System.out.println(Integer.toBinaryString(k));
+        int j = i >>> 29;
+        System.out.println(i >>> 30);   //???
+        System.out.println(Integer.toBinaryString(j));
+        System.out.println(Integer.toBinaryString(-10));
+        System.out.println(Integer.toBinaryString(0x10));   // 十六进制，每一位换成四位二进制
     }
 
     public static void main(String[] args) {
