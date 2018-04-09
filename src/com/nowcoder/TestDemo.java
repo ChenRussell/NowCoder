@@ -725,6 +725,12 @@ public class TestDemo {
         }
     }
 
+    @Test
+    public void testNull() throws Exception {
+        new HashMap<String, String>().get(null);
+        String.valueOf(null);   // ø’÷∏’Î“Ï≥£
+    }
+
     public static void main(String[] args) {
         // TODO Auto-generated method stub
         // testDoubleCompare();
@@ -741,7 +747,7 @@ public class TestDemo {
         // testString();
         // testMath();
         // testTimeString();
-        testPointer();
+//        testPointer();
     }
 
 }
