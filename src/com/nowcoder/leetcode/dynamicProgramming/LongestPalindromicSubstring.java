@@ -6,6 +6,13 @@ package com.nowcoder.leetcode.dynamicProgramming;
  * You may assume that the maximum length of s is 1000.
  * <p>
  * Example:
+            for (int j = i; j < n; j++) {
+                dp[i][j] = s.charAt(i) == s.charAt(j) && (j - i < 3 || dp[i + 1][j - 1]);
+                if (dp[i][j] && (j - i + 1 > result.length())) {
+                    result = s.substring(i, j + 1);
+                }
+            }
+        }
  * <p>
  * Input: "babad"
  * <p>
