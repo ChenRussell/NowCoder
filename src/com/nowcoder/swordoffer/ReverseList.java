@@ -10,7 +10,7 @@ import com.sun.org.apache.regexp.internal.RE;
  */
 public class ReverseList {
 
-    // 头插法
+    // 头插法,需要一个空指针
     public ListNode reverseList(ListNode head) {
         ListNode tail = null;
         ListNode p = null;

@@ -27,8 +27,8 @@ public class RebuildBinaryTree {
         treeNode.right = null;
 
         for (int i = ileft; i <= iright; i++) { // 循环是从中序的开始到结尾，而不是0到in.length
-            if (in[i] == root) {
-                treeNode.left = reConstructBinaryTree(pre, in, pleft + 1, pleft + i - ileft, ileft, i - 1);  // 关键位置是pright:pleft+i-ileft,因为循环是从ileft开始，所以需要减去ileft得到相对大小
+            if (in[i] == root) {    // i-ileft 相对大小
+                treeNode.left = reConstructBinaryTree(pre, in, pleft + 1, pleft + i - ileft, ileft, i - 1);  // 关键位置是pright:pleft+(i-ileft),因为循环是从ileft开始，所以需要减去ileft得到相对大小
                 treeNode.right = reConstructBinaryTree(pre, in, pleft + i + 1 - ileft, pright, i + 1, iright);
                 break;
             }
