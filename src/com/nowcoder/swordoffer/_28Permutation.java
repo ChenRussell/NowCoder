@@ -1,6 +1,7 @@
 package com.nowcoder.swordoffer;
 
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by ChenRui on 2018/4/5
@@ -10,7 +11,7 @@ import java.util.ArrayList;
  * 输入描述:
  * 输入一个字符串,长度不超过9(可能有字符重复),字符只包括大小写字母。
  */
-public class Permutation {
+public class _28Permutation {
 
     public ArrayList<String> permutation(String str) {
         ArrayList<String> res = new ArrayList<>();
@@ -38,9 +39,34 @@ public class Permutation {
         }
     }
 
+    static public ArrayList<String> permutation2(String str) {
+        ArrayList<String> res = new ArrayList<>();
+        permutation2(str.toCharArray(), res, 0);
+        return res;
+    }
+
+    private static void permutation2(char[] chars, ArrayList<String> res, int begin) {
+        if (String.valueOf(chars).length() - 1 == begin) {
+            res.add(String.valueOf(chars));
+        }
+
+        for (int i = begin; i < chars.length; i++) {
+            char temp = chars[begin];
+            chars[begin] = chars[i];
+            chars[i] = temp;
+
+            permutation2(chars, res, begin + 1);
+
+            temp = chars[begin];
+            chars[begin] = chars[i];
+            chars[i] = temp;
+        }
+    }
+
     public static void main(String[] args) {
-        String str = "abb";
-        ArrayList<String> res = new Permutation().permutation(str);
+        String str = "abc";
+//        ArrayList<String> res = new _28Permutation().permutation(str);
+        List<String> res = permutation2(str);
 //        System.out.println(res);
         for (String re : res) {
             System.out.println(re);
