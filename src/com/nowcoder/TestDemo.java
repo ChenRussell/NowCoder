@@ -768,6 +768,11 @@ public class TestDemo {
         System.out.println(Integer.toBinaryString(0x10));   // 十六进制，每一位换成四位二进制
     }
 
+    @Test
+    public void testShort() throws Exception {
+        System.out.println(0xfff0);
+    }
+
     public static void main(String[] args) {
         // TODO Auto-generated method stub
         // testDoubleCompare();

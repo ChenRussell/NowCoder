@@ -34,7 +34,7 @@ public class BackPackV {
 
     public static void main(String[] args) {
         int weight[] = {2, 2, 2, 3, 3, 3};
-        int weight2[] = {1,2,4};
+        int weight2[] = {1,2,3};
         int k = 5;
         int res = new BackPackV().backpack(weight2, 4);
         System.out.println(res);

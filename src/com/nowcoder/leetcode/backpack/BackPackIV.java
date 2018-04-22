@@ -32,8 +32,8 @@ public class BackPackIV {
     }
 
     public static void main(String[] args) {
-        int weight[] = {1,2,4};
-        int target = 4;
+        int weight[] = {1,2,3};
+        int target = 5;
         int res = new BackPackIV().backpack(weight, target);
         System.out.println(res);
     }
