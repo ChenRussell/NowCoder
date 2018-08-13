@@ -11,6 +11,10 @@ public class TestClass extends AbstractSuperClass implements InterfaceSuperClass
 //	}
 //	public final String finalString;
 
+    private static void testMethod() {
+        System.out.println("test");
+    }
+
     public static void main(String args[]) {
         String s;
 //		System.out.println(s);		// 方法中定义的局部变量必须初始化,否则编译不通过
@@ -22,6 +26,8 @@ public class TestClass extends AbstractSuperClass implements InterfaceSuperClass
         };
         t.run();    // start方法才会创建新线程,run()方法只是简单的方法调用
         System.out.print("dazhong");
+
+        ((TestClass) null).testMethod();    // 正常打印
     }
 
     static void dianping() {

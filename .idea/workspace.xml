@@ -2,16 +2,184 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/com/nowcoder/TestDemo.java" line="168" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_43PrintProbability.java" line="23" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f8d7557-7c03-46ee-b314-2501174ec7ad" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/backpack/BackPackIV.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/backpack/BackPackIV.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/backpack/BackPackV.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/backpack/BackPackV.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/BinaryTreeTraverse/InOrder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/BinaryTreeTraverse/PostOrder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/BinaryTreeTraverse/PreOrder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/BinaryTreeTraverse/PreOrderV2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/BinaryTreeTraverse/TreeNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache2$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache3$Entry.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/byteDance/Tone.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/byteDance/second/Tfive.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/byteDance/second/Tfour.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/byteDance/second/Tone.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/byteDance/second/Tthree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/byteDance/second/Ttwo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/ctrip/Lianjia.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/ctrip/Main1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/huawei/BigMultiply.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/huawei/Tone.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/huawei/Tthree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/huawei/Tthree2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/huawei/Ttwo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/huawei/Ttwo2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/jd/Tone.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/jd/Tone2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/jd/Tthree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/jd/Ttwo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/jd/Ttwo2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/meituan/StrTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/qunar/Tone.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/qunar/Ttwo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/tencent/Tone.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/tencent/Tthree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/tencent/Ttwo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/wangyi/WThree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/wangyi/Wone.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/wangyi/Wtwo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/yixin/Ttwo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/designPattern/ProxyPattern/ProxyPattern$DynamicProxy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/designPattern/ProxyPattern/ProxyPattern$Hello.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/designPattern/ProxyPattern/ProxyPattern$IHello.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/designPattern/ProxyPattern/ProxyPattern.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/designPattern/TemplatePattern/Cricket.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/designPattern/TemplatePattern/Football.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/designPattern/TemplatePattern/Game.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/designPattern/TemplatePattern/TemplatePatternDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/Bfs/_45JumpGameII.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/_392IsSubsequence.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/_792NumberOfMatchingSubsequences.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/greedy/_134GasStation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/IsBalanced.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_28Permutation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_37FindFirstCommonNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_38GetNumberOfK.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_40FindNumsAppearOnce.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_43PrintProbability.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_44IsContinuous.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_45LastRemaining.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_52Mutiply.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_56EntryNodeOfLoop.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_59IsSymmetrical.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_60PrintBinaryTreetoRow.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_61PrintZ.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_63KthNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/testClass/IteratorTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/testClass/TestHashMap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/BinaryTreeTraverse/InOrder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/BinaryTreeTraverse/PostOrder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/BinaryTreeTraverse/PreOrder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/BinaryTreeTraverse/PreOrderV2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/second/Tfive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/second/Tfour.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/second/Tone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/second/Tthree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/second/Ttwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/ctrip/Lianjia.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/huawei/BigMultiply.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/huawei/Tone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/huawei/Tthree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/huawei/Tthree2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/huawei/Ttwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/huawei/Ttwo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/jd/Tone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/jd/Tone2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/jd/Tthree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/jd/Ttwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/jd/Ttwo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/NOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/NTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/Ntwo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/tencent/Tone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/tencent/Tthree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/tencent/Ttwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/yixin/Ttwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/designPattern/ProxyPattern/ProxyPattern.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/designPattern/TemplatePattern/Cricket.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/designPattern/TemplatePattern/Football.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/designPattern/TemplatePattern/Game.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/designPattern/TemplatePattern/TemplatePatternDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/leetcode/Bfs/_45JumpGameII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/leetcode/_392IsSubsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/leetcode/_792NumberOfMatchingSubsequences.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/leetcode/greedy/_134GasStation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/IsBalanced.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_37FindFirstCommonNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_38GetNumberOfK.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_40FindNumsAppearOnce.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_43PrintProbability.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_44IsContinuous.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_45LastRemaining.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_52Mutiply.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_56EntryNodeOfLoop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_59IsSymmetrical.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_60PrintBinaryTreetoRow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_61PrintZ.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_63KthNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/testClass/IteratorTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/testClass/TestHashMap.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/byteDance/Tone.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/ctrip/Main1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/meituan/StrTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/qunar/Tone.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/qunar/Ttwo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/Permutation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/wangyi/WThree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/wangyi/Wone.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/wangyi/Wtwo.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$1.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$2.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$3.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$4.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$5.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$6.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/RegularExpressionMatching.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/RegularExpressionMatching.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/dynamicProgramming/LongestPalindromicSubstring.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/dynamicProgramming/LongestPalindromicSubstring.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/testClass/TestClass$1.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/testClass/TestClass$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/testClass/TestClass.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/testClass/TestClass.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NowCoder.iml" afterPath="$PROJECT_DIR$/NowCoder.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/TestDemo.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/TestDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackIV.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackIV.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackV.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackV.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/leetcode/RegularExpressionMatching.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/leetcode/RegularExpressionMatching.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/leetcode/_55JumpGame.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/leetcode/_55JumpGame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/leetcode/dynamicProgramming/LongestPalindromicSubstring.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/leetcode/dynamicProgramming/LongestPalindromicSubstring.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/RebuildBinaryTree.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/RebuildBinaryTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/ReverseList.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/ReverseList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/testClass/TestClass.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/testClass/TestClass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/byteDance/Tfive.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/byteDance/Tfive.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/byteDance/Ttwo.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/byteDance/Ttwo.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/ctrip/Main2.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/ctrip/Main2.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/ctrip/Main22.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/ctrip/Main22.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/ctrip/Test.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/ctrip/Test.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/meituan/Main.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/meituan/Main.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/byteDance/Tfive.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/Tfive.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/byteDance/Tone.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/Tone.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/byteDance/Ttwo.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/Ttwo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/ctrip/Main1.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/ctrip/Main1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/ctrip/Main2.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/ctrip/Main2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/ctrip/Main22.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/ctrip/Main22.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/ctrip/Test.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/ctrip/Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/meituan/Main.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/meituan/Main.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/meituan/StrTest.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/meituan/StrTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/qunar/Tone.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/qunar/Tone.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/qunar/Ttwo.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/qunar/Ttwo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/Permutation.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_28Permutation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/wangyi/WThree.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/wangyi/WThree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/wangyi/Wone.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/wangyi/Wone.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/wangyi/Wtwo.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/wangyi/Wtwo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,52 +190,62 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_55JumpGame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/_55JumpGame.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="LRUCache1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1419">
-              <caret line="43" column="9" lean-forward="false" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+            <state relative-caret-position="-93">
+              <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java">
+      <file leaf-file-name="LRUCache2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20790">
-              <caret line="675" column="28" lean-forward="false" selection-start-line="675" selection-start-column="22" selection-end-line="675" selection-end-column="28" />
+            <state relative-caret-position="924">
+              <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConcurrentHashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar://G:/Program Files/Java1.7/jdk1.7.0_80/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <file leaf-file-name="LRUCache3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12342">
-              <caret line="415" column="0" lean-forward="false" selection-start-line="415" selection-start-column="0" selection-end-line="415" selection-end-column="0" />
+            <state relative-caret-position="2013">
+              <caret line="61" column="18" lean-forward="false" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_322CoinChange.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/_322CoinChange.java">
+      <file leaf-file-name="BackPackI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1386">
-              <caret line="42" column="9" lean-forward="false" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+            <state relative-caret-position="-126">
+              <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BackPackIV.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackIV.java">
+      <file leaf-file-name="BackPackII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1089">
-              <caret line="33" column="44" lean-forward="false" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+            <state relative-caret-position="-704">
+              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BackPackIII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackIII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -76,57 +254,54 @@
       <file leaf-file-name="BackPackV.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackV.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+            <state relative-caret-position="-126">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/TestDemo.java">
+      <file leaf-file-name="summary.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/summary.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="34">
+                <caret line="8" column="45" lean-forward="false" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinInRotateArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/MinInRotateArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="772" column="33" lean-forward="false" selection-start-line="772" selection-start-column="33" selection-end-line="772" selection-end-column="33" />
+            <state relative-caret-position="231">
+              <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_416PartitionEqualSubsetSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/_416PartitionEqualSubsetSum.java">
+      <file leaf-file-name="BackPackIV.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackIV.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1947">
-              <caret line="59" column="1" lean-forward="false" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Runtime.java" pinned="false" current-in-tab="false">
-        <entry file="jar://G:/Program Files/Java1.7/jdk1.7.0_80/src.zip!/java/lang/Runtime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1089">
-              <caret line="61" column="12" lean-forward="false" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
-              <folding>
-                <element signature="e#1272#1273#0" expanded="true" />
-                <element signature="e#1309#1310#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcurrentHashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42339">
-              <caret line="1365" column="7" lean-forward="false" selection-start-line="1365" selection-start-column="7" selection-end-line="1365" selection-end-column="7" />
+            <state relative-caret-position="303">
+              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -145,10 +320,15 @@
       <find>testSomething</find>
       <find>testSom</find>
       <find>l</find>
+      <find>testsome</find>
+      <find>treeset</find>
+      <find>transfer</find>
       <find>resize</find>
+      <find>removeEldestEntry</find>
+      <find>parseint</find>
     </findStrings>
     <replaceStrings>
-      <replace>words</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -162,57 +342,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/nowcoder/jvm/chapter13/AtomicTest.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/MirrorBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/PrintMatrix.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/dynamicProgramming/LongestValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/IsPopOrder.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/testClass/packageTest/PackageManager.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/testClass/packageTest/innerPackageTest/PackageManager.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/testClass/TestPackage.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/PrintFromTopToBottom.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/VerifySquenceOfBST.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/FindPath.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/dynamicProgramming/LCS.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/concurrent/BlockingQueue/ProducerConsumerPattern.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/concurrent/Interrupted.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/ctrip/Main1.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/_127LabberLength_update.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/_127LadderLength.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/BackTracking.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/Bfs/_127LadderLength.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/BackTracking/_SubSetII.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/BackTracking/_90SubSetII.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/BackTracking/_47PermutationII.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/BackTracking/_40CombinationSum.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/BackTracking/_78Subsets.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/BackTracking/_46Permutation.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/BackTracking/_40CombinationSumII.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/concurrent/artOfJavaConcurrency/chapter4/Shutdown.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/concurrent/artOfJavaConcurrency/chapter4/Interrupted.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/concurrent/artOfJavaConcurrency/chapter4/WaitNotify.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/concurrent/artOfJavaConcurrency/chapter4/Join.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/concurrent/artOfJavaConcurrency/chapter4/Profiler.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/meituan/StrTest.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/RegularExpressionMatching.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/BackTracking/_39CombinationSum.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/_20ValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/_55JumpGame.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/_26RemoveDuplicatesFromSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/_322CoinChange.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackII.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackI.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/_416PartitionEqualSubsetSum.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackIII.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/summary.md" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/dfs/_122PathSum.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/dfs/_113PathSumII.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/dfs/_111MinimumDepthofBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/dfs/_110BalancedBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/dfs/_104MaximumDepthofBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackV.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackIV.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/Bfs/_45JumpGameII.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/SortAlgorithem/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/BinaryTreeTraverse/PreOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/BinaryTreeTraverse/PreOrderV2.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/BinaryTreeTraverse/InOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/BinaryTreeTraverse/PostOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/designPattern/ProxyPattern.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/designPattern/ProxyPattern/ProxyPattern.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/RebuildBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/com/nowcoder/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/designPattern/TemplatePattern/Game.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/designPattern/TemplatePattern/Cricket.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/designPattern/TemplatePattern/Football.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/designPattern/TemplatePattern/TemplatePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/concurrent/artOfJavaConcurrency/chapter4/Interrupted.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/IsBalanced.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_60PrintBinaryTreetoRow.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_61PrintZ.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_28Permutation.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_63KthNode.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_52Mutiply.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_45LastRemaining.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/second/Tfive.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/second/Ttwo.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/second/Tfour.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/testClass/IteratorTest.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/EntryNodeOfLoop.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_56EntryNodeOfLoop.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_44IsContinuous.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/GetNumberOfK.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_38GetNumberOfK.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_37FindFirstCommonNode.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/RegularExpressionMatching.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_43PrintProbability.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_40FindNumsAppearOnce.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/testClass/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache1.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/campusExam/yixin/Ttwo.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache2.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache3.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/testClass/AbstractSuperClass2.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_57DeleteDuplication.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_59IsSymmetrical.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_35FirstNotRepeatingChar.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/SortAlgorithem/ListMergeSort.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/jvm/chapter9/DynamicProxyTest.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/NTwo.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/NOne.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/Ntwo2.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/summary.md" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/MinInRotateArray.java" />
       </list>
     </option>
   </component>
@@ -228,14 +408,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="640" />
-    <option name="height" value="346" />
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="75" />
+    <option name="y" value="84" />
+    <option name="width" value="1845" />
+    <option name="height" value="996" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -252,7 +429,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,23 +453,15 @@
               <item name="NowCoder" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NowCoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NowCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="backpack" type="462c0819:PsiDirectoryNode" />
+              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,23 +470,28 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Netty入门源码/WebSocket" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15546875" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.nowcoder" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/nowcoder/zhenti" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/second" />
+      <recent name="$PROJECT_DIR$/src/com/nowcoder/campusExam/huawei" />
+      <recent name="$PROJECT_DIR$/src/com/nowcoder/tencent" />
+      <recent name="$PROJECT_DIR$/src/com/nowcoder/jd" />
+      <recent name="$PROJECT_DIR$/src/com/nowcoder/ctrip" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/nowcoder/ctrip" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/nowcoder/zhenti" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -332,15 +506,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestDemo.testShort">
-    <configuration name="BackPackIV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.NOne">
+    <configuration name="DynamicProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.nowcoder.leetcode.backpack.*" />
+          <option name="PATTERN" value="com.nowcoder.jvm.chapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.nowcoder.leetcode.backpack.BackPackIV" />
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.jvm.chapter9.DynamicProxyTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -352,14 +526,14 @@
       <module name="NowCoder" />
       <envs />
     </configuration>
-    <configuration name="BackPackV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="NOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.nowcoder.leetcode.backpack.*" />
+          <option name="PATTERN" value="com.nowcoder.campusExam.netease.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.nowcoder.leetcode.backpack.BackPackV" />
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.campusExam.netease.NOne" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -371,58 +545,14 @@
       <module name="NowCoder" />
       <envs />
     </configuration>
-    <configuration name="MaximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="NTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.nowcoder.leetcode.dynamicProgramming.*" />
+          <option name="PATTERN" value="com.nowcoder.campusExam.netease.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.nowcoder.leetcode.dynamicProgramming.MaximumSubarray" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="NowCoder" />
-      <envs />
-    </configuration>
-    <configuration name="TestDemo.testShort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.nowcoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="NowCoder" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.nowcoder" />
-      <option name="MAIN_CLASS_NAME" value="com.nowcoder.TestDemo" />
-      <option name="METHOD_NAME" value="testShort" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="TestStaticOverwrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.nowcoder.testClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.nowcoder.testClass.TestStaticOverwrite" />
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.campusExam.netease.NTwo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -515,20 +645,16 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestStaticOverwrite" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MaximumSubarray" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BackPackV" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BackPackIV" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestDemo.testShort" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.DynamicProxyTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.NTwo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.NOne" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestDemo.testShort" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BackPackIV" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BackPackV" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MaximumSubarray" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestStaticOverwrite" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.NOne" />
+        <item index="1" class="java.lang.String" itemvalue="Application.NTwo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DynamicProxyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -541,11 +667,12 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8f8d7557-7c03-46ee-b314-2501174ec7ad" name="Default" comment="" />
-      <created>1524222134632</created>
+      <created>1529309909359</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1524222134632</updated>
-      <workItem from="1524222154516" duration="1111000" />
+      <updated>1529309909359</updated>
+      <workItem from="1529309910673" duration="2323000" />
+      <workItem from="1533970772927" duration="9449000" />
     </task>
     <servers />
   </component>
@@ -553,38 +680,62 @@
     <history-entry file="TestDemo_testRight - 2018.04.09 at 21h 55m 57s.xml">
       <configuration name="TestDemo.testRight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestDemo_testShort - 2018.04.20 at 19h 09m 43s.xml">
-      <configuration name="TestDemo.testShort" configurationId="JUnit" />
+    <history-entry file="TestDemo_testClone - 2018.04.13 at 16h 44m 46s.xml">
+      <configuration name="TestDemo.testClone" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testClone - 2018.04.13 at 16h 45m 07s.xml">
+      <configuration name="TestDemo.testClone" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testClone - 2018.04.13 at 17h 06m 27s.xml">
+      <configuration name="TestDemo.testClone" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testClone - 2018.04.13 at 17h 07m 00s.xml">
+      <configuration name="TestDemo.testClone" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testClone - 2018.04.13 at 17h 07m 14s.xml">
+      <configuration name="TestDemo.testClone" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testClone - 2018.04.13 at 17h 10m 20s.xml">
+      <configuration name="TestDemo.testClone" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="260553000" />
+    <option name="totallyTimeSpent" value="401891000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294509" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32772166" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07725322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25375536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26019314" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955106" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39842874" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -633,8 +784,8 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/nowcoder/meituan/StrTest.java</url>
-          <line>18</line>
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/campusExam/meituan/StrTest.java</url>
+          <line>19</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
@@ -656,371 +807,351 @@
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_60PrintBinaryTreetoRow.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_38GetNumberOfK.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_38GetNumberOfK.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_37FindFirstCommonNode.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/leetcode/RegularExpressionMatching.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/campusExam/yixin/Ttwo.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/campusExam/yixin/Ttwo.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_57DeleteDuplication.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/jvm/chapter9/DynamicProxyTest.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/jvm/chapter9/DynamicProxyTest.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="18" />
+      <option name="time" value="31" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="dp[j - coins[i]]" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/RegularExpressionMatching.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
-    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/concurrent/Executors.java" />
-    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/_26RemoveDuplicatesFromSortedArray.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/MirrorBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackII.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_43PrintProbability.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1085">
-          <caret line="52" column="57" lean-forward="false" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
+        <state relative-caret-position="891">
+          <caret line="33" column="45" lean-forward="true" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackI.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_40FindNumsAppearOnce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-454">
-          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        <state relative-caret-position="756">
+          <caret line="53" column="24" lean-forward="true" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackIII.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_56EntryNodeOfLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        <state relative-caret-position="756">
+          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/LongestSubstringWithoutRepeatingCharacters.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/campusExam/yixin/Ttwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1412">
-          <caret line="61" column="38" lean-forward="false" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+        <state relative-caret-position="514">
+          <caret line="59" column="1" lean-forward="true" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/javax/swing/tree/TreeNode.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/FindPath.java">
+    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/LinkedHashMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/testClass/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        <state relative-caret-position="567">
+          <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/dfs/_113PathSumII.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/RegularExpressionMatching.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        <state relative-caret-position="651">
+          <caret line="47" column="43" lean-forward="false" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/dfs/_111MinimumDepthofBinaryTree.java">
+    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/concurrent/Executors.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_28Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="1269">
+          <caret line="48" column="17" lean-forward="false" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/dfs/_122PathSum.java">
+    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/SortAlgorithem/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="52" column="47" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="52" selection-end-column="47" />
+        <state relative-caret-position="1782">
+          <caret line="66" column="28" lean-forward="false" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/dfs/_110BalancedBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/SortAlgorithem/QuickSortV2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="42" column="83" lean-forward="false" selection-start-line="42" selection-start-column="83" selection-end-line="42" selection-end-column="83" />
+        <state relative-caret-position="729">
+          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/dfs/_104MaximumDepthofBinaryTree.java">
+    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/lang/System.java" />
+    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/HashMap.java" />
+    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/Map.java" />
+    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/concurrent/ConcurrentMap.java" />
+    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/SortAlgorithem/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="486">
+          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/summary.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="297">
-            <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/ctrip/Main22.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/testClass/AccountType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="54">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/ctrip/Main2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/testClass/AbstractSuperClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="81">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/ctrip/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/testClass/AbstractSuperClass2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/SortAlgorithem/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="729">
+          <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/meituan/StrTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_57DeleteDuplication.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_35FirstNotRepeatingChar.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_59IsSymmetrical.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        <state relative-caret-position="675">
+          <caret line="27" column="56" lean-forward="false" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/meituan/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/SortAlgorithem/ListMergeSort.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/ReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-157">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="303">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/wangyi/Wone.java">
+    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/lang/Character.java" />
+    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/lang/Integer.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/BinaryTreeTraverse/InOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="216">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/wangyi/WThree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/BinaryTreeTraverse/PreOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/wangyi/Wtwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/byteDance/Ttwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/byteDance/Tone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="-171">
           <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/byteDance/Tfive.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/BinaryTreeTraverse/PostOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/ctrip/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        <state relative-caret-position="459">
+          <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2255">
-          <caret line="1132" column="10" lean-forward="false" selection-start-line="1132" selection-start-column="10" selection-end-line="1132" selection-end-column="10" />
+        <state relative-caret-position="-24152">
+          <caret line="294" column="20" lean-forward="false" selection-start-line="294" selection-start-column="20" selection-end-line="294" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+    <entry file="file://$PROJECT_DIR$/com/nowcoder/jvm/chapter9/$Proxy0.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        <state relative-caret-position="231">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/testClass/TestStaticOverwrite.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/jvm/chapter9/DynamicProxyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/dynamicProgramming/MaximumSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/GetLeastKNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1353">
-          <caret line="46" column="21" lean-forward="false" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1329">
-          <caret line="105" column="11" lean-forward="false" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/FindGreatestSumOfSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7953">
-          <caret line="268" column="27" lean-forward="false" selection-start-line="268" selection-start-column="27" selection-end-line="268" selection-end-column="27" />
+        <state relative-caret-position="237">
+          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
           <folding>
-            <element signature="e#6252#6253#0" expanded="true" />
-            <element signature="e#6320#6321#0" expanded="true" />
-            <element signature="e#10189#10190#0" expanded="true" />
-            <element signature="e#10216#10217#0" expanded="true" />
+            <marker date="1520782427927" expanded="false" signature="0:7" ph="/**...*/" />
+            <marker date="1520782427927" expanded="true" signature="1018:1110" ph="//..." />
+            <marker date="1520782427927" expanded="true" signature="1018:1213" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/Permutation.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/NTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="31" column="39" lean-forward="false" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/_55JumpGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1419">
-          <caret line="43" column="9" lean-forward="false" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        <state relative-caret-position="141">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/dynamicProgramming/LongestValidParentheses.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/Ntwo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        <state relative-caret-position="-132">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/util/ConcurrentModificationException.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/NOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="69" column="13" lean-forward="false" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42339">
-          <caret line="1365" column="7" lean-forward="false" selection-start-line="1365" selection-start-column="7" selection-end-line="1365" selection-end-column="7" />
+        <state relative-caret-position="198">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://G:/Program Files/Java1.7/jdk1.7.0_80/src.zip!/java/lang/Runtime.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1089">
-          <caret line="61" column="12" lean-forward="false" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
-          <folding>
-            <element signature="e#1272#1273#0" expanded="true" />
-            <element signature="e#1309#1310#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/PrintFromTopToBottom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-242">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20790">
-          <caret line="675" column="28" lean-forward="false" selection-start-line="675" selection-start-column="22" selection-end-line="675" selection-end-column="28" />
+        <state relative-caret-position="-93">
+          <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://G:/Program Files/Java1.7/jdk1.7.0_80/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12342">
-          <caret line="415" column="0" lean-forward="false" selection-start-line="415" selection-start-column="0" selection-end-line="415" selection-end-column="0" />
+        <state relative-caret-position="924">
+          <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/_416PartitionEqualSubsetSum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1947">
-          <caret line="59" column="1" lean-forward="false" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+        <state relative-caret-position="2013">
+          <caret line="61" column="18" lean-forward="false" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/_322CoinChange.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="42" column="9" lean-forward="false" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        <state relative-caret-position="-126">
+          <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackIV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1089">
-          <caret line="33" column="44" lean-forward="false" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+        <state relative-caret-position="303">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        <state relative-caret-position="-126">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/TestDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="772" column="33" lean-forward="false" selection-start-line="772" selection-start-column="33" selection-end-line="772" selection-end-column="33" />
+        <state relative-caret-position="-704">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/summary.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="34">
+            <caret line="8" column="45" lean-forward="false" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/MinInRotateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1078,18 +1209,6 @@
       <state key="ModuleStructureConfigurable.UI">
         <settings>
           <last-edited>NowCoder</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

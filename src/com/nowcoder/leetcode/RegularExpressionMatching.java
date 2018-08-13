@@ -32,6 +32,11 @@ public class RegularExpressionMatching {
             firstMatch = true;
         }
         if (p.length() >= 2 && p.charAt(1) == '*') {
+            /*
+              当第二个字符为*的时候，
+                (aab,c*a*b)
+                (aa,a*),(aa,.*),(ab,.*)
+             */
             return (isMatch(s, p.substring(2)) || (firstMatch && isMatch(s.substring(1), p)));
         } else {
             return firstMatch && isMatch(s.substring(1), p.substring(1));
@@ -40,7 +45,7 @@ public class RegularExpressionMatching {
 
     public static void main(String[] args) {
         RegularExpressionMatching obj = new RegularExpressionMatching();
-        boolean bool = obj.isMatch("aab", "c*a*b");
+        boolean bool = obj.isMatch("ab", ".*");
         System.out.println(bool);
     }
 }

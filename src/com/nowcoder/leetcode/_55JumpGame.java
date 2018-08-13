@@ -39,7 +39,7 @@ public class _55JumpGame {
         int max = 0;
         for(int i=0;i<nums.length;i++){
             if(i>max) {return false;}
-            max = Math.max(nums[i]+i,max);  // max代表能走到的最大位置
+            max = Math.max(nums[i]+i,max);  // max代表能走到的最大位置, 贪心策略！！
             if (max > nums.length-1) return true;   // 优化时间复杂度
         }
         return true;

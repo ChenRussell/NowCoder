@@ -22,7 +22,7 @@ import org.junit.Test;
 import com.nowcoder.testClass.SubClass;
 import sun.awt.Mutex;
 
-public class TestDemo {
+public class TestDemo implements Cloneable{
 
     /**
      * test
@@ -423,6 +423,7 @@ public class TestDemo {
      */
     @Test
     public void testSomething() throws Exception {
+        new TreeSet<>();
         TestDemo testDemo = new TestDemo();
         synchronized (testDemo) {
             // 调用wait方法需要先获取对象锁
@@ -771,6 +772,17 @@ public class TestDemo {
     @Test
     public void testShort() throws Exception {
         System.out.println(0xfff0);
+    }
+
+    public void testClone() throws CloneNotSupportedException {
+        HashMap<Object, Object> map1 = new HashMap<>();
+        Object map2 = map1.clone();
+        System.out.println(map1 == map2);       // false, 新建一个对象，但是对象里的引用并没有实现拷贝，为浅拷贝！
+        System.out.println(map1.equals(map2));  // true
+        TestDemo testDemo = new TestDemo();
+        // 必须要实现Cloneable才能调用clone方法
+        Object clone = testDemo.clone();
+        System.out.println(testDemo == clone);  // false
     }
 
     public static void main(String[] args) {
