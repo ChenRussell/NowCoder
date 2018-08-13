@@ -6,180 +6,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f8d7557-7c03-46ee-b314-2501174ec7ad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/BinaryTreeTraverse/InOrder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/BinaryTreeTraverse/PostOrder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/BinaryTreeTraverse/PreOrder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/BinaryTreeTraverse/PreOrderV2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/BinaryTreeTraverse/TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache2$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache3$Entry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/byteDance/Tone.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/byteDance/second/Tfive.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/byteDance/second/Tfour.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/byteDance/second/Tone.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/byteDance/second/Tthree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/byteDance/second/Ttwo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/ctrip/Lianjia.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/ctrip/Main1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/huawei/BigMultiply.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/huawei/Tone.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/huawei/Tthree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/huawei/Tthree2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/huawei/Ttwo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/huawei/Ttwo2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/jd/Tone.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/jd/Tone2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/jd/Tthree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/jd/Ttwo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/jd/Ttwo2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/meituan/StrTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/qunar/Tone.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/qunar/Ttwo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/tencent/Tone.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/tencent/Tthree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/tencent/Ttwo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/wangyi/WThree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/wangyi/Wone.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/wangyi/Wtwo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/yixin/Ttwo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/designPattern/ProxyPattern/ProxyPattern$DynamicProxy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/designPattern/ProxyPattern/ProxyPattern$Hello.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/designPattern/ProxyPattern/ProxyPattern$IHello.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/designPattern/ProxyPattern/ProxyPattern.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/designPattern/TemplatePattern/Cricket.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/designPattern/TemplatePattern/Football.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/designPattern/TemplatePattern/Game.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/designPattern/TemplatePattern/TemplatePatternDemo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/Bfs/_45JumpGameII.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/_392IsSubsequence.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/_792NumberOfMatchingSubsequences.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/greedy/_134GasStation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/IsBalanced.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_28Permutation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_37FindFirstCommonNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_38GetNumberOfK.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_40FindNumsAppearOnce.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_43PrintProbability.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_44IsContinuous.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_45LastRemaining.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_52Mutiply.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_56EntryNodeOfLoop.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_59IsSymmetrical.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_60PrintBinaryTreetoRow.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_61PrintZ.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_63KthNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/testClass/IteratorTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/nowcoder/testClass/TestHashMap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/BinaryTreeTraverse/InOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/BinaryTreeTraverse/PostOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/BinaryTreeTraverse/PreOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/BinaryTreeTraverse/PreOrderV2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/second/Tfive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/second/Tfour.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/second/Tone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/second/Tthree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/second/Ttwo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/ctrip/Lianjia.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/huawei/BigMultiply.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/huawei/Tone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/huawei/Tthree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/huawei/Tthree2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/huawei/Ttwo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/huawei/Ttwo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/jd/Tone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/jd/Tone2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/jd/Tthree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/jd/Ttwo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/jd/Ttwo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/NOne.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/NTwo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/Ntwo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/tencent/Tone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/tencent/Tthree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/tencent/Ttwo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/yixin/Ttwo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/designPattern/ProxyPattern/ProxyPattern.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/designPattern/TemplatePattern/Cricket.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/designPattern/TemplatePattern/Football.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/designPattern/TemplatePattern/Game.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/designPattern/TemplatePattern/TemplatePatternDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/leetcode/Bfs/_45JumpGameII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/leetcode/_392IsSubsequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/leetcode/_792NumberOfMatchingSubsequences.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/leetcode/greedy/_134GasStation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/IsBalanced.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_37FindFirstCommonNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_38GetNumberOfK.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_40FindNumsAppearOnce.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_43PrintProbability.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_44IsContinuous.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_45LastRemaining.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_52Mutiply.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_56EntryNodeOfLoop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_59IsSymmetrical.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_60PrintBinaryTreetoRow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_61PrintZ.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_63KthNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/testClass/IteratorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/testClass/TestHashMap.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/byteDance/Tone.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/ctrip/Main1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/meituan/StrTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/qunar/Tone.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/qunar/Ttwo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/Permutation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/wangyi/WThree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/wangyi/Wone.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/wangyi/Wtwo.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$1.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$2.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$3.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$4.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$5.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$6.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/TestDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/RegularExpressionMatching.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/RegularExpressionMatching.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/dynamicProgramming/LongestPalindromicSubstring.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/leetcode/dynamicProgramming/LongestPalindromicSubstring.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/testClass/TestClass$1.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/testClass/TestClass$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/testClass/TestClass.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/testClass/TestClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_35FirstNotRepeatingChar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/testClass/AbstractSuperClass2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/SortAlgorithem/ListMergeSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_57DeleteDuplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache2$1.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache3.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache2.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache3$Entry.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache3$Entry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache3.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NowCoder.iml" afterPath="$PROJECT_DIR$/NowCoder.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/TestDemo.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/TestDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/leetcode/RegularExpressionMatching.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/leetcode/RegularExpressionMatching.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/leetcode/_55JumpGame.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/leetcode/_55JumpGame.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/leetcode/dynamicProgramming/LongestPalindromicSubstring.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/leetcode/dynamicProgramming/LongestPalindromicSubstring.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/RebuildBinaryTree.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/RebuildBinaryTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/ReverseList.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/ReverseList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/testClass/TestClass.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/testClass/TestClass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/byteDance/Tfive.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/byteDance/Tfive.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/byteDance/Ttwo.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/byteDance/Ttwo.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/ctrip/Main2.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/ctrip/Main2.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/ctrip/Main22.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/ctrip/Main22.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/ctrip/Test.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/ctrip/Test.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/com/nowcoder/meituan/Main.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/campusExam/meituan/Main.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/byteDance/Tfive.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/Tfive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/byteDance/Tone.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/Tone.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/byteDance/Ttwo.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/byteDance/Ttwo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/ctrip/Main1.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/ctrip/Main1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/ctrip/Main2.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/ctrip/Main2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/ctrip/Main22.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/ctrip/Main22.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/ctrip/Test.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/ctrip/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/meituan/Main.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/meituan/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/meituan/StrTest.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/meituan/StrTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/qunar/Tone.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/qunar/Tone.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/qunar/Ttwo.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/qunar/Ttwo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/Permutation.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_28Permutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/wangyi/WThree.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/wangyi/WThree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/wangyi/Wone.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/wangyi/Wone.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/nowcoder/wangyi/Wtwo.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/campusExam/wangyi/Wtwo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache2.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/LRU/LRUCache2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_59IsSymmetrical.class" afterPath="$PROJECT_DIR$/bin/com/nowcoder/swordoffer/_59IsSymmetrical.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_59IsSymmetrical.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_59IsSymmetrical.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -191,16 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="LRUCache1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-93">
-              <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LRUCache2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -251,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BackPackV.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BackPackV.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackV.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-126">
@@ -274,11 +103,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinInRotateArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MinInRotateArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/MinInRotateArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            <state relative-caret-position="330">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="1127" column="42" lean-forward="true" selection-start-line="1127" selection-start-column="42" selection-end-line="1127" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -295,13 +134,6 @@
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -327,21 +159,19 @@
       <find>removeEldestEntry</find>
       <find>parseint</find>
     </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/com/nowcoder/campusExam/jd/Ttwo.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/campusExam/huawei/BigMultiply.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/campusExam/huawei/Ttwo2.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/zhenti/VirtueAndTalentTheory.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/ReverseList.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/Bfs/_45JumpGame.java" />
         <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/Bfs/_45JumpGameII.java" />
         <option value="$PROJECT_DIR$/src/com/nowcoder/SortAlgorithem/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/com/nowcoder/BinaryTreeTraverse/PreOrder.java" />
@@ -387,12 +217,6 @@
         <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_59IsSymmetrical.java" />
         <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/_35FirstNotRepeatingChar.java" />
         <option value="$PROJECT_DIR$/src/com/nowcoder/SortAlgorithem/ListMergeSort.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/jvm/chapter9/DynamicProxyTest.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/NTwo.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/NOne.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/Ntwo2.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/summary.md" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/swordoffer/MinInRotateArray.java" />
       </list>
     </option>
   </component>
@@ -408,7 +232,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="75" />
     <option name="y" value="84" />
     <option name="width" value="1845" />
@@ -470,7 +294,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Netty入门源码/WebSocket" />
+    <property name="last_opened_file_path" value="E:/coding-interviews-master" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -506,64 +330,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NOne">
-    <configuration name="DynamicProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.nowcoder.jvm.chapter9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.nowcoder.jvm.chapter9.DynamicProxyTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="NowCoder" />
-      <envs />
-    </configuration>
-    <configuration name="NOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.nowcoder.campusExam.netease.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.nowcoder.campusExam.netease.NOne" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="NowCoder" />
-      <envs />
-    </configuration>
-    <configuration name="NTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.nowcoder.campusExam.netease.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.nowcoder.campusExam.netease.NTwo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="NowCoder" />
-      <envs />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -645,18 +412,6 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Application.DynamicProxyTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.NTwo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.NOne" />
-    </list>
-    <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.NOne" />
-        <item index="1" class="java.lang.String" itemvalue="Application.NTwo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DynamicProxyTest" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -665,15 +420,6 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="8f8d7557-7c03-46ee-b314-2501174ec7ad" name="Default" comment="" />
-      <created>1529309909359</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1529309909359</updated>
-      <workItem from="1529309910673" duration="2323000" />
-      <workItem from="1533970772927" duration="9449000" />
-    </task>
     <servers />
   </component>
   <component name="TestHistory">
@@ -700,7 +446,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="401891000" />
+    <option name="totallyTimeSpent" value="390698000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -712,8 +458,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -746,9 +491,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -855,24 +597,85 @@
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/nowcoder/jvm/chapter9/DynamicProxyTest.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/nowcoder/jvm/chapter9/DynamicProxyTest.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="31" />
+      <option name="time" value="29" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/BackTracking/_90SubSetII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/BackTracking/_78Subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/BackTracking/_39CombinationSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/BackTracking/_40CombinationSumII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/campusExam/jd/Tone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/campusExam/jd/Tone2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/lang/String.java" />
+    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/Iterator.java" />
+    <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/List.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/testClass/IteratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="35" column="11" lean-forward="false" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_44IsContinuous.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="57" lean-forward="false" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_38GetNumberOfK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="58" column="5" lean-forward="false" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_37FindFirstCommonNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="52" column="9" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/MirrorBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -949,7 +752,30 @@
     <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
     <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/lang/System.java" />
     <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/ArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/HashMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2013">
+          <caret line="61" column="18" lean-forward="false" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/Map.java" />
     <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/concurrent/ConcurrentMap.java" />
     <entry file="jar://$USER_HOME$/app/jdk1.8.0_151/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
@@ -974,7 +800,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/testClass/AbstractSuperClass2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/testClass/AbstractSuperClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nowcoder/SortAlgorithem/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="729">
@@ -982,8 +814,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_57DeleteDuplication.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_35FirstNotRepeatingChar.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_57DeleteDuplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_35FirstNotRepeatingChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="54" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/_59IsSymmetrical.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
@@ -991,7 +835,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/SortAlgorithem/ListMergeSort.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/SortAlgorithem/ListMergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/ReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
@@ -1019,140 +869,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24152">
-          <caret line="294" column="20" lean-forward="false" selection-start-line="294" selection-start-column="20" selection-end-line="294" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/nowcoder/jvm/chapter9/$Proxy0.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/jvm/chapter9/DynamicProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-          <folding>
-            <marker date="1520782427927" expanded="false" signature="0:7" ph="/**...*/" />
-            <marker date="1520782427927" expanded="true" signature="1018:1110" ph="//..." />
-            <marker date="1520782427927" expanded="true" signature="1018:1213" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/NTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/Ntwo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/campusExam/netease/NOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-93">
-          <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/LRU/LRUCache3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2013">
-          <caret line="61" column="18" lean-forward="false" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackIV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/BackPackII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-704">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/leetcode/backpack/summary.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="34">
-            <caret line="8" column="45" lean-forward="false" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordoffer/MinInRotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1209,6 +925,19 @@
       <state key="ModuleStructureConfigurable.UI">
         <settings>
           <last-edited>NowCoder</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

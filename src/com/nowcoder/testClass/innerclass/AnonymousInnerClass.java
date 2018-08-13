@@ -5,6 +5,20 @@ package com.nowcoder.testClass.innerclass;
  */
 public class AnonymousInnerClass {
 
+    public void test(){
+        int afinal = 23;
+
+        for (int i = 0; i < 6; i++) {
+
+            Runnable runnable = new Runnable() {     // 匿名内部类
+                @Override
+                public void run() {
+                    System.out.println("this is a anonymous class!" + afinal);   // 没定义成final类型不报错?????
+                }
+            };
+        }
+    }
+
     public static void main(String[] args) {
         int afinal = 23;
 

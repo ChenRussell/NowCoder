@@ -59,8 +59,9 @@ public class LRUCache3<K, V> {
 
     private void moveToFirst(Entry entry) {
         if (entry == first) return;
-        if (entry.pre != null) entry.pre.next = entry.next;
-        if (entry.next != null) entry.next.pre = entry.pre;
+        // 先把节点摘下来
+        if (entry.pre != null) entry.pre.next = entry.next; //  前一个节点指向后一个节点
+        if (entry.next != null) entry.next.pre = entry.pre; //  后一个节点指向前一个节点
         if (entry == last) last = last.pre;
 
         if (first == null || last == null) {
@@ -77,7 +78,7 @@ public class LRUCache3<K, V> {
     private void removeLast() {
         if (last != null) {
             last = last.pre;
-            if (last == null) first = null;
+            if (last == null) first = null;     // 只有一个元素的时候
             else last.next = null;
         }
     }
@@ -106,7 +107,7 @@ public class LRUCache3<K, V> {
     }
 
     public static void main(String[] args) {
-        LRUCache1<Integer, String> lru = new LRUCache1<>(4);
+        LRUCache3<Integer, String> lru = new LRUCache3<>(4);
         lru.put(1, "a");    // 1:a
         System.out.println(lru.toString());
         lru.put(2, "b");    // 2:b 1:a

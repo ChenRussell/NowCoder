@@ -58,7 +58,7 @@ public class LRUCache2<K, V> {
     }
 
     public static void main(String[] args) {
-        LRUCache1<Integer, String> lru = new LRUCache1<>(5);
+        LRUCache2<Integer, String> lru = new LRUCache2<>(5);
         lru.put(1, "a");    // 1:a
         System.out.println(lru.toString());
         lru.put(2, "b");    // 2:b 1:a
