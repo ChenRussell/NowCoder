@@ -16,11 +16,9 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.sun.deploy.uitoolkit.impl.fx.FXPluginToolkit;
 import org.junit.Test;
 
 import com.nowcoder.testClass.SubClass;
-import sun.awt.Mutex;
 
 public class TestDemo implements Cloneable{
 
@@ -770,6 +768,10 @@ public class TestDemo implements Cloneable{
     }
 
     @Test
+    public void testShort() throws Exception {
+        System.out.println(0xfff0);
+    }
+
     public void testClone() throws CloneNotSupportedException {
         HashMap<Object, Object> map1 = new HashMap<>();
         Object map2 = map1.clone();
