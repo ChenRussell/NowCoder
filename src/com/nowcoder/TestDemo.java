@@ -188,7 +188,7 @@ public class TestDemo implements Cloneable{
      */
     @Test
     public void testString() {
-        String a= null;
+        String a= "";
         System.out.println(a.concat("Sd"));
         String s1 = "a";
         String s2 = s1 + "b";
